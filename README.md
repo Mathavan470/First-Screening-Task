@@ -24,4 +24,3 @@ Welcome! This repository contains my submission for the design screening task. T
 - This task gave me a great opportunity to showcase my precision in translating UI layouts.
 - Focused on maintaining pixel-perfect accuracy and clean hierarchy in desktop version.
 - Ensured accessibility and consistency throughout the layouts.
-- If given the chance, I'd love to bring this design to life using responsive front-end code as well.
