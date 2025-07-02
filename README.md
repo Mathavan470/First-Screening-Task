@@ -1,4 +1,4 @@
-# First-Screening-Task
+# First-Screening-Test (Mathavan)
 Welcome! This repository contains my submission for the design screening task. The challenge involved recreating and adapting three web sections for both desktop and mobile layouts while following specific guidelines.
 
 **Understanding the Requirements**
