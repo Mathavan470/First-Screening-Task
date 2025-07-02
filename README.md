@@ -24,3 +24,5 @@ Welcome! This repository contains my submission for the design screening task. T
 - This task gave me a great opportunity to showcase my precision in translating UI layouts.
 - Focused on maintaining pixel-perfect accuracy and clean hierarchy in desktop version.
 - Ensured accessibility and consistency throughout the layouts.
+
+- Figam Link : https://www.figma.com/design/q7Kazl3oIqxA2HHrCu1umo/First-Screening-Test?node-id=0-1&t=vjHSMNKzpWuNgSKK-1
